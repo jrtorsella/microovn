@@ -57,3 +57,5 @@ require (
 	golang.org/x/text v0.32.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
+
+replace github.com/canonical/microcluster/v3 => github.com/jrtorsella/microcluster/v3 v3.0.0-20260924135901-b38170b534f6
