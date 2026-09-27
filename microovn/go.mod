@@ -58,4 +58,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace github.com/canonical/microcluster/v3 => github.com/jrtorsella/microcluster/v3 v3.0.0-20260924135901-b38170b534f6
+replace github.com/canonical/microcluster/v3 => github.com/jrtorsella/microcluster/v3 v3.0.0-20260927204907-9c8cefee32af
