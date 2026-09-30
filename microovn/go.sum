@@ -4,8 +4,6 @@ github.com/bmatcuk/doublestar/v4 v4.9.1 h1:X8jg9rRZmJd4yRy7ZeNDRnM+T3ZfHv15JiBJ/
 github.com/bmatcuk/doublestar/v4 v4.9.1/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
 github.com/canonical/go-dqlite/v2 v2.0.1 h1:C5A+MioYkjew5rG8apjVYwGYIpKKkkC1FlnL4cBLGaE=
 github.com/canonical/go-dqlite/v2 v2.0.1/go.mod h1:IaIC8u4Z1UmPjuAqPzA2r83YMaMHRLoKZdHKI5uHCJI=
-github.com/canonical/go-dqlite/v3 v3.0.3 h1:JkdMD+f21yuPcS+r6gzO57lBkU5U76xmWyk8uT/eruI=
-github.com/canonical/go-dqlite/v3 v3.0.3/go.mod h1:6O+E6MiYesijRUOECyywp16iT+N4QOrvjDWWiMJ/xF0=
 github.com/canonical/lxd v0.0.0-20251211093832-ac7a1edf4d94 h1:caMm/t8Q4NUeBaTVh+FdoVmZkS87QWj1EoovT5DAK+s=
 github.com/canonical/lxd v0.0.0-20251211093832-ac7a1edf4d94/go.mod h1:u+1ws9V/DUiKU5qqXxifLG8jig2szQCH2rcQluO5edo=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
@@ -55,6 +53,8 @@ github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/jeremija/gosubmit v0.2.8 h1:mmSITBz9JxVtu8eqbN+zmmwX7Ij2RidQxhcwRVI4wqA=
 github.com/jeremija/gosubmit v0.2.8/go.mod h1:Ui+HS073lCFREXBbdfrJzMB57OI/bdxTiLtrDHHhFPI=
+github.com/jrtorsella/go-dqlite/v3 v3.0.4-0.20260930132755-57f6977e4caa h1:kwRR3NVI8EF5IkUrI0Dfq54SEv7JFQCg8uMetj8Fs7A=
+github.com/jrtorsella/go-dqlite/v3 v3.0.4-0.20260930132755-57f6977e4caa/go.mod h1:6O+E6MiYesijRUOECyywp16iT+N4QOrvjDWWiMJ/xF0=
 github.com/jrtorsella/microcluster/v3 v3.0.0-20260927204907-9c8cefee32af h1:o1IKGo0TESYCX+FM1ZZ5KbSjtXKtm+AxGHMpaEs0+XM=
 github.com/jrtorsella/microcluster/v3 v3.0.0-20260927204907-9c8cefee32af/go.mod h1:QwBGX0cmAj8sB3+i/kdzN4YHZ6+pxZncFh/ATKSXAcQ=
 github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 h1:Z9n2FFNUXsshfwJMBgNA0RU6/i7WVaAegv3PtuIHPMs=
